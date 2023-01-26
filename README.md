@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://sahanilxm.github.io/portfolio/](https://sahanilxm.github.io/portfolio/)
-
 - 📫 How to reach me **laxmisahani240@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/Laxmi-Resume](https://bit.ly/Laxmi-Resume)
