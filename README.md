@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LAXMI KUMAR SAHANI</h1>
 <h3 align="center">A passionate frontend developer and Competitive Programmer.</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="">
 
 - 🌱 I’m currently learning **Angular**
 
