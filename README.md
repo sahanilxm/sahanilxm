@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and Competitive Programmer.</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **laxmisahani240@gmail.com**
 
