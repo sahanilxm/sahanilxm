@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **laxmisahani240@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/Laxmi-Resume](https://bit.ly/laxmi-sahani-resume)
+- 📄 Know about my experiences [https://bit.ly/Laxmi-Resume](https://bit.ly/laxmi-kumar-resume)
 
 - ⚡ Fun fact **I think I am Funny.**
 
